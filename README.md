@@ -42,6 +42,7 @@ arXiv is the primary preprint server for physics, mathematics, computer science,
 
 -  Submission volume over time
 
+
 ![|638](figures/volume_over_time.png)
 
 *AI/ML paper volume against all arXiv submissions, with key milestones annotated. The 2020 slowdown reflects the COVID-19 pandemic; the post-2022 recovery coincides with the release of ChatGPT.*
