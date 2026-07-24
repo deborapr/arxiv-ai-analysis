@@ -41,12 +41,12 @@ arXiv is the primary preprint server for physics, mathematics, computer science,
 ## Visualizations
 
 -  Submission volume over time
-![[figures/volume_over_time.png|638]]
+![|638](figures/volume_over_time.png)
 *AI/ML paper volume against all arXiv submissions, with key milestones annotated. The 2020 slowdown reflects the COVID-19 pandemic; the post-2022 recovery coincides with the release of ChatGPT.*
 
 - Keyword trajectories across eras
 
-![Keyword trajectories|625](figures/keyword_trajectories.png)
+![|625](figures/keyword_trajectories.png)
 
 *Rank trajectories of key terms across three eras: Pre-2012 (Classical AI), 2012–2017 (Deep Learning), and 2017–2024 (Transformers & LLMs). Colors indicate trajectory type: stable, rising, emerging, or disappeared.*
 
