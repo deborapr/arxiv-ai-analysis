@@ -1,5 +1,5 @@
 
-# How Has AI Research Exploded? An Analysis of arXiv Papers
+# How has AI research exploded? An analysis of arXiv papers
 
 
 An exploratory data analysis of arXiv preprints, tracing the rise of Artificial Intelligence as a research field: when it accelerated, which subfields drove the growth, how the vocabulary shifted across eras, and how far AI has reached beyond its own borders.
