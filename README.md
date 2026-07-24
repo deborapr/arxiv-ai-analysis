@@ -48,13 +48,13 @@ arXiv is the primary preprint server for physics, mathematics, computer science,
 
 - Keyword trajectories across eras
 
-![Keyword trajectories](figures/keyword_trajectories.png)
+![Keyword trajectories|625](figures/keyword_trajectories.png)
 
 *Rank trajectories of key terms across three eras: Pre-2012 (Classical AI), 2012–2017 (Deep Learning), and 2017–2024 (Transformers & LLMs). Colors indicate trajectory type: stable, rising, emerging, or disappeared.*
 
 - AI growth and cross-field penetration
 
-![Relative growth](figures/relative_growth.png)
+![Relative growth|580](figures/relative_growth.png)
 *Indexed growth of AI vs other scientific fields since 2010.*
 
 ![Permeation](figures/permeation.png)
