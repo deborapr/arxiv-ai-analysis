@@ -60,16 +60,6 @@ arXiv is the primary preprint server for physics, mathematics, computer science,
 ![Permeation](figures/permeation.png)
 
 *Share of papers with AI/ML tags in non-CS fields, showing the rapid uptake of machine learning methods across disciplines.*
-%%
-
-| Chart                  | Description                                                       |
-| ---------------------- | ----------------------------------------------------------------- |
-| Paper volume over time | Total arXiv vs AI/ML papers per year, with milestone annotations  |
-| AI share of arXiv      | Percentage of all papers classified as AI/ML, 1991–2024           |
-| Subfield growth        | Breakdown of cs.AI, cs.LG, cs.CV, cs.CL, cs.NE, stat.ML over time |
-| Keywords by era        | Top words in paper titles: pre-2012, 2012–2017, 2017–2024         |
-| Relative field growth  | Indexed growth (2010 = 100) across AI, Physics, Math, and q-bio   |
-%%
 
 ---
 ## Methods
@@ -103,10 +93,5 @@ Of these, 410152 (15.5%) carry at least one AI/ML category tag.
 - Apply named entity recognition to track the rise and fall of specific architectures (LSTM, CNN, Transformer, GPT) as named entities in the literature
 
 ---
- %% 
- ## About
-
-This project is part of my data science portfolio.  
-I'm a physicist transitioning into data science, bringing a background in complex systems modeling and quantitative analysis to real-world data problems. %%
 
 [LinkedIn](https://linkedin.com/in/debora-princepe) · [GitHub](https://github.com/deborapr)
