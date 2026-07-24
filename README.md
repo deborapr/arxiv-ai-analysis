@@ -1,5 +1,3 @@
-# arxiv-ai-analysis
-Exploratory analysis of the AI research explosion using arXiv metadata: trends, vocabulary, and cross-field penetration.
 
 # How Has AI Research Exploded? An Analysis of arXiv Papers
 
